@@ -46,7 +46,6 @@ The project allows users to enter two numbers, select an arithmetic operation, a
 │        Result: 25                 │
 │                                   │
 └───────────────────────────────────┘
-
 </div>
 ✨ Features
 
